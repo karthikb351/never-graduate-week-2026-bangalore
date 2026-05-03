@@ -11,9 +11,8 @@ We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of
 
 # Events
 
-## [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - Social
-
-Puzzled Pint is a (free) casual, social puzzle solving event which happens at bars/pubs on the second Tuesday of every month in multiple cities around the world. Contact: @karthikb351. 
+| Date | Time | Location | Event | Contact |
+| Tuesday, 12th May | 6:30pm - 11pm | [Daddy's Bar](https://maps.app.goo.gl/Cj3fTkBdf8qEK2LW7) | [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - a free social puzzle solving event | @karthikb351 |
 
 
 # Code of Conduct
