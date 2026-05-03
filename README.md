@@ -11,14 +11,20 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 
 This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F).
 
-Have an idea on what you _think_ we should do? Please [add it to the suggestion box](https://github.com/karthikb351/never-graduate-week-2026-bangalore/discussions/new?category=ideas-and-suggestions) (there are no bad ideas!). 
+Have an idea on what you _think_ we should do? Please [add it to the suggestion box](https://github.com/karthikb351/never-graduate-week-2026-bangalore/discussions/new?category=ideas-and-suggestions) (there are no bad ideas!).
 
 
-# Who are we?
+## Scheduling
+Underline Center is open to hosting most of the events that happen during the week. Karthik (@karthikb351) can help with scheduling stuff based on non-NGW stuff that might also be happening at the venue (mostly in the evenings).
+
+If we want to do something past 5pm, we have the 2nd floor available on Monday and Tuesday.
+
+
+## Who are we?
 We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of [Recurse Center](https://recurse.com). We meet every Tuesday to co-work together as part of the [Recursive Coworking Meetup](https://captnemo.in/cowork/).
 
 
-# Code of Conduct
+## Code of Conduct
 
 Please note that all NGW events will be under the [Recurse Center Code of Conduct](https://www.recurse.com/code-of-conduct). For any reports, please contact Karthik or Unnati. For attendees, please go through the [Recurse Center Social Rules](https://www.recurse.com/social-rules). The below is a short summary (Please read through the entire thing).
 
