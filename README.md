@@ -5,6 +5,7 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 
 | Date | Time | Location | Event | Contact |
 |---|---|---|---|---|
+| Monday, 11th May | 10am - 5pm | [Underline Center](https://maps.app.goo.gl/iww7PxrDy8tut7Hn8) | [Impossible Stuff Day](.‎/schedule/impossiblestuffday.md‎) - attempt something outrageous | Unnati |
 | Tuesday, 12th May | 6:30pm - 11pm | [Daddy's Bar](https://maps.app.goo.gl/Cj3fTkBdf8qEK2LW7) | [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - a free social puzzle solving event | @karthikb351 |
 
 ## Propose a talk/session
