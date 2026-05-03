@@ -1,19 +1,19 @@
 Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Graduate Week](https://www.recurse.com/about#never-graduate) from May 11-15, 2026.
 
 
-## Propose a talk/session
-
-This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F)
-
-
-# Who are we?
-We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of [Recurse Center](https://recurse.com). We meet every Tuesday to co-work together as part of the [Recursive Coworking Meetup](https://captnemo.in/cowork/).
-
 # Events
 
 | Date | Time | Location | Event | Contact |
 |---|---|---|---|---|
 | Tuesday, 12th May | 6:30pm - 11pm | [Daddy's Bar](https://maps.app.goo.gl/Cj3fTkBdf8qEK2LW7) | [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - a free social puzzle solving event | @karthikb351 |
+
+## Propose a talk/session
+
+This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F) and adding it to the README table.
+
+
+# Who are we?
+We are a group of tech and tech-adjacent enthusiasts, many of whom are alumni of [Recurse Center](https://recurse.com). We meet every Tuesday to co-work together as part of the [Recursive Coworking Meetup](https://captnemo.in/cowork/).
 
 
 # Code of Conduct
