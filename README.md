@@ -9,7 +9,7 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 
 ## Propose a talk/session
 
-This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F) and adding it to the README table.
+This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F).
 
 
 # Who are we?
