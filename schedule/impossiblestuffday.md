@@ -1,6 +1,6 @@
 # Impossible Stuff Day
 
-Date: Monday, 11th May - 10am - 5pm at Underline Center
+Date: Friday, 15th May - 10am - 5pm at Underline Center
 
 Contact: Unnati
 
