@@ -7,6 +7,8 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 |---|---|---|---|---|
 | Tuesday, 12th May | 6:30pm - 11pm | [Daddy's Bar](https://maps.app.goo.gl/Cj3fTkBdf8qEK2LW7) | [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - a free social puzzle solving event | @karthikb351 |
 
+| Friday, 15th May | 10am - 5pm | [Underline Center](https://maps.app.goo.gl/iww7PxrDy8tut7Hn8) | [Let's Play Baba is You](https://github.com/karthikb351/never-graduate-week-2026-bangalore/blob/main/schedule/lets-play-baba-is-you.md) | Ishan |
+
 ## Propose a talk/session
 
 This schedule is community-driven, so please consider proposing a talk/session/hackday idea by creating a pull request with a file in the `/schedule` folder [by clicking here](https://github.com/karthikb351/never-graduate-week-2026-bangalore/new/main/schedule?filename=session.md&value=What%20is%20your%20session%20about%3F).
