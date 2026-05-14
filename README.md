@@ -6,6 +6,7 @@ Recurse-ish community in Bangalore's celebration of Recurse Center's [Never Grad
 | Date | Time | Location | Event | Contact |
 |---|---|---|---|---|
 | Tuesday, 12th May | 6:30pm - 11pm | [Daddy's Bar](https://maps.app.goo.gl/Cj3fTkBdf8qEK2LW7) | [Puzzled Pint Bangalore](./schedule/puzzledpint.md) - a free social puzzle solving event | @karthikb351 |
+| Friday, 15th May | 10am - 5pm | [Underline Center](https://maps.app.goo.gl/iww7PxrDy8tut7Hn8) | [Discrete Optimization Pizza Party](https://github.com/karthikb351/never-graduate-week-2026-bangalore/blob/main/schedule/discrete-optimization-pizza-party.md) | Ishan |
 
 ## Propose a talk/session
 
